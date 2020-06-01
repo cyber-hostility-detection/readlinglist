@@ -1,5 +1,5 @@
-# Machine Learning for Cyber Hostility Detection
+# Cyber Hostility Detection Reading List
 
-## Samples
-* [Malware Detection in Self-Driving Vehicles Using Machine Learning Algorithms](https://www.hindawi.com/journals/jat/2020/3035741/)
-* [Physics-Based Attack Detection in Self-Driving Vehicles Using Machine Learning Algorithms](https://www.ics.uci.edu/~alfchen/yulong_ccs19.pdf)
+## Social media hate
+* [Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis](https://arxiv.org/pdf/2005.12423.pdf)
+
