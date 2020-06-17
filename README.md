@@ -60,7 +60,7 @@
 
 * [Nikolov-Radivchev at SemEval-2019 Task 6: Offensive Tweet Classification with BERT and Ensembles](https://www.aclweb.org/anthology/S19-2123.pdf)
 
-### COVID-19
+## COVID-19
 
 * [Hate multiverse spreads malicious covid-19 content online beyond individual platform control.](https://arxiv.org/pdf/2004.00673.pdf)
 
