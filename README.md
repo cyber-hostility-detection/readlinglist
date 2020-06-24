@@ -12,6 +12,8 @@
  
 * http://www.socialmediaforpublichealth.org/covid-19/
 
+* https://data.gesis.org/tweetscov19/#dataset
+
 
 ## Other Related dataset
 
