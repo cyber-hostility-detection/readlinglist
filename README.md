@@ -1,10 +1,10 @@
-# Cyber Hostility Detection Reading List
+# Cyber-Hostility Detection Reading List
 
 ## COVID-19 Related papers
 * [Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis](https://arxiv.org/pdf/2005.12423.pdf)
 * [Hate multiverse spreads malicious covid-19 content online beyond individual platform control.](https://arxiv.org/pdf/2004.00673.pdf)
 
-## COVID-19 Related dataset
+## COVID-19 Related datasets
 
 * https://github.com/echen102/COVID-19-TweetIDs
  
@@ -15,7 +15,7 @@
 * https://data.gesis.org/tweetscov19/#dataset
 
 
-## Other Related dataset
+## Other Related Materials
 
 ### Social media hate speech
 
