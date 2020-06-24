@@ -12,7 +12,9 @@ https://github.com/echen102/COVID-19-TweetIDs/blob/master/keywords.txt
 http://www.socialmediaforpublichealth.org/covid-19/
 
 
-## Social media hate speech
+## Other Related dataset
+
+### Social media hate speech
 
 * [Peer to Peer Hate: Hate Speech Instigators and Their Targets](https://arxiv.org/pdf/1804.04649.pdf)
 
