@@ -5,11 +5,12 @@
 * [Hate multiverse spreads malicious covid-19 content online beyond individual platform control.](https://arxiv.org/pdf/2004.00673.pdf)
 
 ## COVID-19 Related dataset
-https://github.com/echen102/COVID-19-TweetIDs
+
+* https://github.com/echen102/COVID-19-TweetIDs
  
-https://github.com/echen102/COVID-19-TweetIDs/blob/master/keywords.txt
+* https://github.com/echen102/COVID-19-TweetIDs/blob/master/keywords.txt
  
-http://www.socialmediaforpublichealth.org/covid-19/
+* http://www.socialmediaforpublichealth.org/covid-19/
 
 
 ## Other Related dataset
