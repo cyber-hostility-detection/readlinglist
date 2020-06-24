@@ -1,7 +1,18 @@
 # Cyber Hostility Detection Reading List
 
-##  Social media hate speech
+## COVID-19 Related papers
 * [Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis](https://arxiv.org/pdf/2005.12423.pdf)
+* [Hate multiverse spreads malicious covid-19 content online beyond individual platform control.](https://arxiv.org/pdf/2004.00673.pdf)
+
+## COVID-19 Related dataset
+https://github.com/echen102/COVID-19-TweetIDs
+ 
+https://github.com/echen102/COVID-19-TweetIDs/blob/master/keywords.txt
+ 
+http://www.socialmediaforpublichealth.org/covid-19/
+
+
+## Social media hate speech
 
 * [Peer to Peer Hate: Hate Speech Instigators and Their Targets](https://arxiv.org/pdf/1804.04649.pdf)
 
@@ -60,7 +71,6 @@
 
 * [Nikolov-Radivchev at SemEval-2019 Task 6: Offensive Tweet Classification with BERT and Ensembles](https://www.aclweb.org/anthology/S19-2123.pdf)
 
-## COVID-19
 
-* [Hate multiverse spreads malicious covid-19 content online beyond individual platform control.](https://arxiv.org/pdf/2004.00673.pdf)
+
 
