@@ -13,8 +13,25 @@ Sinophobic Behavior on Web Communities in the Face of COVID-19](https://arxiv.or
 * [Tracking Social Media Discourse About the COVID-19 Pandemic:
 Development of a Public Coronavirus Twitter Data Set](https://arxiv.org/pdf/2003.07372.pdf)
 
+* [The Twitter pandemic: The critical role of Twitter
+in the dissemination of medical information and
+misinformation during the COVID-19 pandemic](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F42C2D99CA00FBAE50A66D107322211/S1481803520003619a.pdf/twitter_pandemic_the_critical_role_of_twitter_in_the_dissemination_of_medical_information_and_misinformation_during_the_covid19_pandemic.pdf)
+
 * [#COVID-19 ON TWITTER: BOTS, CONSPIRACIES,
 AND SOCIAL MEDIA ACTIVISM](https://arxiv.org/pdf/2004.09531v1.pdf)
+
+* [Assessing the risks of “infodemics” in response to
+COVID-19 epidemics](https://arxiv.org/pdf/2004.03997.pdf)
+
+* [Understanding the perception of COVID-19 policies by mining a multilanguage Twitter dataset](https://arxiv.org/pdf/2003.10359.pdf)
+
+* [Using twitter and web news mining to predict COVID-19 outbreak](https://www.researchgate.net/profile/Kia_Jahanbin2/publication/339770709_Using_twitter_and_web_news_mining_to_predict_COVID-19_outbreak/links/5e84d4db4585150839b508b7/Using-twitter-and-web-news-mining-to-predict-COVID-19-outbreak.pdf)
+
+* [Prevalence of Low-Credibility Information on Twitter
+During the COVID-19 Outbreak](https://arxiv.org/pdf/2004.14484.pdf)
+
+* [Dynamic topic modeling of the COVID-19 Twitter narrative among U.S. governors
+and cabinet executives](https://arxiv.org/pdf/2004.11692.pdf)
 
 ### Misinformation
 
@@ -40,6 +57,7 @@ on Twitter](https://arxiv.org/pdf/2003.13907.pdf)
 
 * [ Paper: "Detecting East Asian Prejudice on Social Media" dataset & model](https://zenodo.org/record/3816667#.Xvj6HJNKgUE)
 
+* https://github.com/lopezbec/COVID19_Tweets_Dataset
 
 
 ## Other Related Materials
