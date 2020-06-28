@@ -2,7 +2,23 @@
 
 ## COVID-19 Related Papers
 * [Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis](https://arxiv.org/pdf/2005.12423.pdf)
+
+* [“Go eat a bat, Chang!”: An Early Look on the Emergence of
+Sinophobic Behavior on Web Communities in the Face of COVID-19](https://arxiv.org/pdf/2004.04046.pdf)
+
+* [Detecting East Asian Prejudice on Social Media](https://arxiv.org/pdf/2005.03909.pdf)
+
 * [Hate multiverse spreads malicious covid-19 content online beyond individual platform control.](https://arxiv.org/pdf/2004.00673.pdf)
+
+* [Tracking Social Media Discourse About the COVID-19 Pandemic:
+Development of a Public Coronavirus Twitter Data Set](https://arxiv.org/pdf/2003.07372.pdf)
+
+### Misinformation
+
+* [Coronavirus Goes Viral: Quantifying the COVID-19 Misinformation Epidemic on Twitter](https://www.researchgate.net/publication/339923047_Coronavirus_Goes_Viral_Quantifying_the_COVID-19_Misinformation_Epidemic_on_Twitter)
+
+* [A first look at COVID-19 information and misinformation sharing
+on Twitter](https://arxiv.org/pdf/2003.13907.pdf)
 
 
 ## COVID-19 Related Datasets
@@ -16,7 +32,10 @@
 * https://data.gesis.org/tweetscov19/#dataset
 
 * http://www.panacealab.org/covid19/
+
 * [A large-scale COVID-19 Twitter chatter dataset for open scientific research - an international collaboration](https://zenodo.org/record/3902855#.XvbFei2ZNTZ) 
+
+* [ Paper: "Detecting East Asian Prejudice on Social Media" dataset & model](https://zenodo.org/record/3816667#.Xvj6HJNKgUE)
 
 
 
