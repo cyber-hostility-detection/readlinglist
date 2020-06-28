@@ -13,6 +13,9 @@ Sinophobic Behavior on Web Communities in the Face of COVID-19](https://arxiv.or
 * [Tracking Social Media Discourse About the COVID-19 Pandemic:
 Development of a Public Coronavirus Twitter Data Set](https://arxiv.org/pdf/2003.07372.pdf)
 
+* [#COVID-19 ON TWITTER: BOTS, CONSPIRACIES,
+AND SOCIAL MEDIA ACTIVISM](https://arxiv.org/pdf/2004.09531v1.pdf)
+
 ### Misinformation
 
 * [Coronavirus Goes Viral: Quantifying the COVID-19 Misinformation Epidemic on Twitter](https://www.researchgate.net/publication/339923047_Coronavirus_Goes_Viral_Quantifying_the_COVID-19_Misinformation_Epidemic_on_Twitter)
