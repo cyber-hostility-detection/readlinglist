@@ -87,6 +87,9 @@ on Twitter](https://arxiv.org/pdf/2003.13907.pdf)
 * [A Quantitative Approach to Understanding Online Antisemitism](https://arxiv.org/pdf/1809.01644.pdf)
 
 * [And We Will Fight For Our Race!” A Measurement Study of Genetic Testing Conversations on Reddit and 4chan](https://arxiv.org/pdf/1901.09735.pdf)
+
+* [Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter](https://arxiv.org/pdf/2010.04377.pdf)
+
 ### Survey paper
 
 * [A Survey on Automatic Detection of Hate Speech in Text](https://dl.acm.org/doi/pdf/10.1145/3232676)
